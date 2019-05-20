@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "numjs": "^0.16.0",
-    "pandas-js": "^0.2.4"
+    "gpu.js": "^2.0.0-rc.13",
+    "random-js": "^2.0.0"
   }
 }
