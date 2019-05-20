@@ -10,7 +10,5 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gpu.js": "^2.0.0-rc.13",
-    "random-js": "^2.0.0"
   }
 }
